@@ -1,0 +1,19 @@
+h1{
+    color: red;
+}
+#heading{
+    color: blueviolet;
+}
+/* div{
+    color: aquamarine;
+} */
+.cse{
+    color: cyan;
+    background: brown;
+}
+#curaj{
+    color: burlywood;
+}
+#first, #second{
+    color: darkgreen;
+}
