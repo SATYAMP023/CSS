@@ -1,0 +1,35 @@
+#box{
+    box-sizing: border-box;
+    padding: 70px 5px 5px 5px;
+    height: 200px;
+    width: 200px;
+    background-color: aquamarine;
+    text-align: center;
+    font-size: 50px;
+}
+#switch{
+    background-color: burlywood;
+    padding: 10px 15px 10px 15px;
+    margin: 100px;
+    border: 2px dotted red;
+    border-radius: 500px;
+}
+#box1{
+    box-sizing: border-box;
+    padding: 70px 5px 5px 5px;
+    height: 200px;
+    width: 200px;
+    background-color: skyblue;
+    text-align: center;
+    font-size: 50px;
+    margin: 50px;
+}
+#box2{
+    box-sizing: content-box;
+    padding: 70px 5px 5px 5px;
+    height: 200px;
+    width: 200px;
+    background-color: chartreuse;
+    text-align: center;
+    font-size: 50px;
+}
